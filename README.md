@@ -53,3 +53,7 @@ Prime Factorization.
 Approximating pi. 
 
      Compute an approximation of π using Leibniz’ formula.
+
+Histogram
+
+     Plot histogram.
