@@ -38,10 +38,18 @@ Dataset3.
      output: 15
      which is obtained from (3,1,4)×(2,1,2) = 3·2 + 1·1 + 4·2
 
-Gaussian Sum. A program that computes the sum 1 + 2 + ... + n for a given positive integer n.
+Gaussian Sum. 
 
-Another sum. A program that computes the sum of all even integers between 0 and n. 
+     A program that computes the sum 1 + 2 + ... + n for a given positive integer n.
 
-Prime Factorization. A program that computes the prime factorization of a given positive integer.
+Another sum. 
 
-Approximating pi. Compute an approximation of π using Leibniz’ formula.
+     A program that computes the sum of all even integers between 0 and n. 
+
+Prime Factorization. 
+
+     A program that computes the prime factorization of a given positive integer.
+
+Approximating pi. 
+
+     Compute an approximation of π using Leibniz’ formula.
