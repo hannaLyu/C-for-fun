@@ -20,3 +20,22 @@ Bag3.
      
       input: add 3.14 add 3.1415 del 3.14 qry 3.1415 qry 3.14 quit 
       output: TF
+Processing datasets.
+
+Read the datasets in the following order: ﬁrst by dataset (ﬁrst a, then b) and then by value.
+
+Dataset1.
+
+     input: a 3 b 2 b 1 a 1 a 4 b 2 
+     output: 1 3 4 1 2 2
+Dataset2.
+
+     input: a 3 b 2 b 1 a 1 a 4 b 2 
+     output: 3 2 1 1 4 
+Dataset3.
+          
+     input: a 3 b 2 b 1 a 1 a 4 b 2 
+     output: 15
+     which is obtained from (3,1,4)×(2,1,2) = 3·2 + 1·1 + 4·2
+
+
