@@ -62,3 +62,7 @@ Maze.
 
      A small maze game.
      we use characters “r” for right, “u” for up, and “d” for down. After each step, the playground is displayed again and the user can give the next command. The game ends when the user gives command “q”.
+
+Fraction
+
+      fractions of integers supporting some basic operations like addition and multiplication.
