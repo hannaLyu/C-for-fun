@@ -73,3 +73,13 @@ v2d
 Shapes
 
      compute the area, perimeter, rotate of different shapes. Including rectangle, square, circle.
+
+Reverse
+
+        Write a program that reverses a sequence of integers, as provided inthe standard input.
+        
+Palindrome 
+
+     Write a program that decides whether a sequence of integers is a palindrome, i.e. if reading the sequence from right to left results in the very same sequence.
+     
+     
